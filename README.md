@@ -1,4 +1,4 @@
-### Hi there 👋
+### Meu primeiro type foi "Olá mundo!", mal sabia eu que era realmente o que eu queria dizer 👋
 
 <!--
 **AndyOJuliao/AndyOJuliao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
