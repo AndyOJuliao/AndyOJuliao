@@ -17,5 +17,5 @@
   <img aling="center" alt="c"  src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />  
 <div><br/>
   
- ###  Apaixonado por desafios e movido a conquistas
+ ###  Apaixonado por desafios e movido á conquistas, sedento por descobrir do que eu sou capaz
   
