@@ -12,9 +12,7 @@
 
 
 <div style="display: inline_block"><br/>
-  <img aling="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img aling="center" alt="py" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img aling="center" alt="c"  src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />  
+   <img aling="center" alt="py" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <div><br/>
   
  ###  Apaixonado por desafios e movido á conquistas, sedento por descobrir do que eu sou capaz
